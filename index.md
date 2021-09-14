@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/DittoTool/dittotool.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+layout: default
+title: Ditto
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## News
+- 71 replacements are confirmed.
 
-### Markdown
+## Tips
+The following tips can help you to understand the replacements. 
+- The replacements are submitted by pull requests.
+- The *link* in italics indicates the replacements have not been confirmed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Details of Replacements
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DittoTool/dittotool.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Project Name  | Confirmed/Reported | Report Submission |
+| :-----------  | :---------------- | :-----------  |
+| bootique | 0/4 | [*link*](https://github.com/bootique/bootique/pull/311)|
+| mapper | 0/6 | [*link*](https://github.com/JetBrains/mapper/pull/219) |
+| incubator-eventmesh | 19/19 | [link](https://github.com/apache/incubator-eventmesh/pull/518) |
+| google-http-java-client | 0/4 | [*link*](https://github.com/googleapis/google-http-java-client/pull/1444) |
+| light-4j | 0/5 | [*link*](https://github.com/networknt/light-4j/pull/1028)|
+| roller | 0/6 | [*link*](https://github.com/apache/roller/pull/104) |
+| IginX | 11/11 | [link](https://github.com/thulab/IginX/pull/134)|
+| sofa-rpc | 12/12 | [link](https://github.com/sofastack/sofa-rpc/pull/1079) |
+| Glowstone | 0/11 | [*link*](https://github.com/GlowstoneMC/Glowstone/pull/1125)|
+| dolphinscheduler | 7/7 | [link](https://github.com/apache/dolphinscheduler/pull/6187) |
+| dubbo | 12/12 | [link](https://github.com/apache/dubbo/pull/8784)|
+| iotdb | 10/10 | [link](https://github.com/apache/iotdb/pull/3926)|
