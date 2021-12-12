@@ -18,8 +18,8 @@ The following tips can help you to understand the replacements.
 
 | Project Name  | Confirmed/Reported | Report Submission |
 | :-----------  | :---------------- | :-----------  |
-| bootique | 0/4 | [*link*](https://github.com/bootique/bootique/pull/311)|
-| mapper | 0/6 | [*link*](https://github.com/JetBrains/mapper/pull/219) |
+| bootique | 0/4 | [*link*](http://github.com/bootique/bootique/pull/311)|
+| mapper | 0/6 | [*link*](http://github.com/JetBrains/mapper/pull/219) |
 | incubator-eventmesh | 19/19 | [link](https://github.com/apache/incubator-eventmesh/pull/518) |
 | google-http-java-client | 0/4 | [*link*](https://github.com/googleapis/google-http-java-client/pull/1444) |
 | light-4j | 0/5 | [*link*](https://github.com/networknt/light-4j/pull/1028)|
